@@ -1,0 +1,5 @@
+Warning[205] C:\USERS\KETHEESRAM\DESKTOP\LAST AND FINAL.X\FINAL.ASM 2 : Found directive in column 1. (LIST)
+Warning[205] C:\USERS\KETHEESRAM\DESKTOP\LAST AND FINAL.X\FINAL.ASM 6 : Found directive in column 1. (org)
+Message[302] C:\USERS\KETHEESRAM\DESKTOP\LAST AND FINAL.X\FINAL.ASM 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\KETHEESRAM\DESKTOP\LAST AND FINAL.X\FINAL.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\KETHEESRAM\DESKTOP\LAST AND FINAL.X\FINAL.ASM 67 : Found directive in column 1. (end)
